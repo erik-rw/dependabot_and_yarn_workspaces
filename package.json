@@ -7,6 +7,12 @@
     "author": "Erik-RW <57436065+erik-rw@users.noreply.github.com>",
     "license": "MIT",
     "private": true,
+    "workspaces": [
+      "frontend"
+    ],
+    "scripts": {
+      "build": "yarn workspace frontend build"
+    },
     "devDependencies": {
         "@semantic-release/changelog": "^6.0.1",
         "@semantic-release/git": "^10.0.1",
