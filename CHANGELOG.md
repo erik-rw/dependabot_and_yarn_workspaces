@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.2.0...v1.3.0) (2022-09-30)
+
+
+### Features
+
+* **backend:** add quotes API ([#2](https://github.com/erik-rw/dependabot_and_yarn_workspaces/issues/2)) ([da994c6](https://github.com/erik-rw/dependabot_and_yarn_workspaces/commit/da994c67a6d8c5e2004319f32cc99fdb26f76438))
+
 # [1.2.0](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.1.0...v1.2.0) (2022-09-30)
 
 
