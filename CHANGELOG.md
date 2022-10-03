@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.4.0...v1.4.1) (2022-10-03)
+
+
+### Bug Fixes
+
+* **CI:** add missing work dir to tests ([d595c2f](https://github.com/erik-rw/dependabot_and_yarn_workspaces/commit/d595c2f42a7de80cdb0f863fc7af2de1d8aa5ae0))
+
 # [1.4.0](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.3.0...v1.4.0) (2022-10-03)
 
 

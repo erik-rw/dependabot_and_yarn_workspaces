@@ -1,6 +1,6 @@
 {
     "name": "dependabot_and_yarn_workspaces",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "description": "Playground for testing Dependabot in conjunction with yarn workspaces",
     "main": "index.js",
     "repository": "git@github.com:erik-rw/dependabot_and_yarn_workspaces.git",
