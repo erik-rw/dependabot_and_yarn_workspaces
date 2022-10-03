@@ -1,4 +1,4 @@
-name: main
+name: dependabot_frontend
 
 on:
   push:
