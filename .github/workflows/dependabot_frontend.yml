@@ -1,0 +1,26 @@
+name: main
+
+on:
+  push:
+    branches:
+      - dependabot/npm_and_yarn/frontend/*
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.0.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Setup node and yarn cache
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Run tests
+        run: |
+          yarn run test
+
