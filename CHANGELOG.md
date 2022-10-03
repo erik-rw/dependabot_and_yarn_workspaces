@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.4.1...v1.4.2) (2022-10-03)
+
+
+### Bug Fixes
+
+* **CI:** add installing dependencies ([b67ca3f](https://github.com/erik-rw/dependabot_and_yarn_workspaces/commit/b67ca3f82294f1ff0620b8514ec0c55825d9778a))
+
 ## [1.4.1](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.4.0...v1.4.1) (2022-10-03)
 
 
