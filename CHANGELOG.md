@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.3.0...v1.4.0) (2022-10-03)
+
+
+### Features
+
+* **CI:** run tests for Dependabot ([#6](https://github.com/erik-rw/dependabot_and_yarn_workspaces/issues/6)) ([7f692de](https://github.com/erik-rw/dependabot_and_yarn_workspaces/commit/7f692de23acb0231afd89f9b4d1ead88d87f18d6))
+
 # [1.3.0](https://github.com/erik-rw/dependabot_and_yarn_workspaces/compare/v1.2.0...v1.3.0) (2022-09-30)
 
 
